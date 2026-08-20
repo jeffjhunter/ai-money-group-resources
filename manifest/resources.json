@@ -2,5 +2,36 @@
   "schema_version": 1,
   "canonical_host": "https://get.aimoneygroup.com",
   "short_link_host": "https://jeff.ity.so",
-  "resources": []
+  "resources": [
+    {
+      "slug": "claude-power-user-kit",
+      "title": "Claude Power User Kit",
+      "version": "2026.08.20",
+      "filename": "Claude-Power-User-Kit-Production.pdf",
+      "sha256": "6389e9edfff72afd4945e44c46e1d73f2827c3894f255723dd949b28ace2dd54",
+      "bytes": 1003957,
+      "canonical_url": "https://get.aimoneygroup.com/resources/Claude-Power-User-Kit-Production.pdf",
+      "release_tag": "resource-claude-power-user-kit-v2026.08.20"
+    },
+    {
+      "slug": "claude-content-conversion-kit",
+      "title": "Claude Content & Conversion Kit",
+      "version": "2026.08.20",
+      "filename": "Claude-Content-Conversion-Kit-Production.pdf",
+      "sha256": "5077480e81dcc3a00a25e6ea148b03b4f47781c26450e886801baaabe5279365",
+      "bytes": 2661484,
+      "canonical_url": "https://get.aimoneygroup.com/resources/Claude-Content-Conversion-Kit-Production.pdf",
+      "release_tag": "resource-claude-content-conversion-kit-v2026.08.20"
+    },
+    {
+      "slug": "claude-ai-income-offer-builder",
+      "title": "Claude AI Income Offer Builder",
+      "version": "2026.08.20",
+      "filename": "Claude-AI-Income-Offer-Builder-Production.pdf",
+      "sha256": "6ff03292d8de6f2c64d5f7fb5a08b10a9631073b5208ef7cbbd7f7e108182a20",
+      "bytes": 3234186,
+      "canonical_url": "https://get.aimoneygroup.com/resources/Claude-AI-Income-Offer-Builder-Production.pdf",
+      "release_tag": "resource-claude-ai-income-offer-builder-v2026.08.20"
+    }
+  ]
 }

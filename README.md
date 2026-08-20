@@ -10,7 +10,11 @@ GitHub Releases in this repository are continuity mirrors. They are not the prim
 
 ## Published resources
 
-No resources have been published yet. Assets are added only after their title, content, intended audience, package contents, and SHA-256 checksum are verified.
+- Claude Power User Kit
+- Claude Content & Conversion Kit
+- Claude AI Income Offer Builder
+
+Only the verified recipient-facing PDFs are currently published. Editable and complete archives remain withheld pending recipient-package review and removal or explicit approval of internal build/QA material.
 
 ## Integrity
 
