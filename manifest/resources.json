@@ -26,12 +26,16 @@
     {
       "slug": "claude-ai-income-offer-builder",
       "title": "Claude AI Income Offer Builder",
-      "version": "2026.08.20",
+      "version": "2026.08.20.1",
       "filename": "Claude-AI-Income-Offer-Builder-Production.pdf",
-      "sha256": "6ff03292d8de6f2c64d5f7fb5a08b10a9631073b5208ef7cbbd7f7e108182a20",
-      "bytes": 3234186,
+      "sha256": "d42b1a387857422175ec993628cd2afc5a2a13fc15a7b58cf8c38d344ff1203d",
+      "bytes": 6471938,
       "canonical_url": "https://get.aimoneygroup.com/resources/Claude-AI-Income-Offer-Builder-Production.pdf",
-      "release_tag": "resource-claude-ai-income-offer-builder-v2026.08.20"
+      "release_tag": "resource-claude-ai-income-offer-builder-v2026.08.20.1",
+      "accessibility": {
+        "tagged": true,
+        "extractable_text": true
+      }
     }
   ]
 }
