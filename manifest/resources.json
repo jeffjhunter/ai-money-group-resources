@@ -36,6 +36,96 @@
         "tagged": true,
         "extractable_text": true
       }
+    },
+    {
+      "slug": "ai-pipeline-revival-system",
+      "title": "AI Pipeline Revival System",
+      "version": "2026.08.20",
+      "filename": "AI-Pipeline-Revival-System-Production.pdf",
+      "sha256": "ab1ca951d6263a3415d26277020cf952e12a9becca5c452e6f43f8449f684bc8",
+      "bytes": 284603,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Pipeline-Revival-System-Production.pdf",
+      "release_tag": "pipeline-revival-v2026.08.20"
+    },
+    {
+      "slug": "ai-pipeline-revival-system-editable",
+      "title": "AI Pipeline Revival System Editable Package",
+      "version": "2026.08.20",
+      "filename": "AI-Pipeline-Revival-System-Editable-Package.zip",
+      "sha256": "42c28884e61845c51d3cd647033c276088ea6c9ca51b5afaa9f85a9a409f46fb",
+      "bytes": 50521,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Pipeline-Revival-System-Editable-Package.zip",
+      "release_tag": "pipeline-revival-v2026.08.20"
+    },
+    {
+      "slug": "ai-pipeline-revival-system-complete",
+      "title": "AI Pipeline Revival System Complete Package",
+      "version": "2026.08.20",
+      "filename": "AI-Pipeline-Revival-System-Complete-Package.zip",
+      "sha256": "ddf24cd89b4e6b55aa4a9f9965e917d33d2b8fce2833fddb479e4d51b132bda8",
+      "bytes": 437665,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Pipeline-Revival-System-Complete-Package.zip",
+      "release_tag": "pipeline-revival-v2026.08.20"
+    },
+    {
+      "slug": "claude-skill-builder-blueprint",
+      "title": "Claude Skill Builder Blueprint",
+      "version": "2026.08.20",
+      "filename": "Claude-Skill-Builder-Blueprint-Production.pdf",
+      "sha256": "4cc09a9bca044fcb8cf9dd2c744a19f4aa92a7103bf77d04972193f1efaa2918",
+      "bytes": 901853,
+      "canonical_url": "https://get.aimoneygroup.com/resources/Claude-Skill-Builder-Blueprint-Production.pdf",
+      "release_tag": "claude-skill-builder-v2026.08.20"
+    },
+    {
+      "slug": "claude-skill-builder-blueprint-editable",
+      "title": "Claude Skill Builder Blueprint Editable Package",
+      "version": "2026.08.20",
+      "filename": "Claude-Skill-Builder-Blueprint-Editable-Package.zip",
+      "sha256": "304487fe846c8ea23b8cde6813ed6e2fd41005310875f14330768fa995f0423d",
+      "bytes": 8625,
+      "canonical_url": "https://get.aimoneygroup.com/resources/Claude-Skill-Builder-Blueprint-Editable-Package.zip",
+      "release_tag": "claude-skill-builder-v2026.08.20"
+    },
+    {
+      "slug": "ai-persona-os-guide",
+      "title": "AI Persona OS Human Implementation Guide",
+      "version": "2026.08.20",
+      "filename": "AI-Persona-OS-Human-Implementation-Guide.pdf",
+      "sha256": "9f2397a843b7aeeda8b3a6b79f67262bd381d4c626a54a08c04df5705ddf93a6",
+      "bytes": 731255,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Persona-OS-Human-Implementation-Guide.pdf",
+      "release_tag": "ai-persona-os-v2026.08.20"
+    },
+    {
+      "slug": "ai-persona-os-markdown",
+      "title": "AI Persona OS Human Implementation Guide Markdown",
+      "version": "2026.08.20",
+      "filename": "AI-Persona-OS-Human-Implementation-Guide.md",
+      "sha256": "f37ac06751e8a3e1f0f484b074d321b577b0ae3a2833cc93796a7cbcf6a77861",
+      "bytes": 53196,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Persona-OS-Human-Implementation-Guide.md",
+      "release_tag": "ai-persona-os-v2026.08.20"
+    },
+    {
+      "slug": "ai-persona-os-technical-pack",
+      "title": "AI Persona OS Technical Pack",
+      "version": "2026.08.20",
+      "filename": "AI-Persona-OS-Funnel-Builder-Technical-Pack.zip",
+      "sha256": "e6580482522a12da014dd84fe29667ce7b2293b9726a619993a94d948458fec4",
+      "bytes": 21421,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Persona-OS-Funnel-Builder-Technical-Pack.zip",
+      "release_tag": "ai-persona-os-v2026.08.20"
+    },
+    {
+      "slug": "ai-persona-os-visual-assets",
+      "title": "AI Persona OS Visual Assets",
+      "version": "2026.08.20",
+      "filename": "AI-Persona-OS-Funnel-Builder-Visual-Assets.zip",
+      "sha256": "99bb66391c7534ff60e029291d18c8893e7a7cf60e1fe58116a972b2e1e894b5",
+      "bytes": 166107,
+      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Persona-OS-Funnel-Builder-Visual-Assets.zip",
+      "release_tag": "ai-persona-os-v2026.08.20"
     }
   ]
 }

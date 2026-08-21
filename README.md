@@ -13,8 +13,11 @@ GitHub Releases in this repository are continuity mirrors. They are not the prim
 - Claude Power User Kit
 - Claude Content & Conversion Kit
 - Claude AI Income Offer Builder
+- AI Pipeline Revival System (PDF, editable package, and complete package)
+- Claude Skill Builder Blueprint (PDF and recipient-safe editable package)
+- AI Persona OS (human guide, Markdown source, technical pack, and visual assets)
 
-Only the verified recipient-facing PDFs are currently published. Editable and complete archives remain withheld pending recipient-package review and removal or explicit approval of internal build/QA material.
+Only verified, recipient-safe artifacts are published. Packages containing internal design-QA files, local build paths, or broken machine-local asset references remain withheld.
 
 ## Integrity
 
