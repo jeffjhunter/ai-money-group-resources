@@ -58,16 +58,6 @@
       "release_tag": "pipeline-revival-v2026.08.20"
     },
     {
-      "slug": "ai-pipeline-revival-system-complete",
-      "title": "AI Pipeline Revival System Complete Package",
-      "version": "2026.08.20",
-      "filename": "AI-Pipeline-Revival-System-Complete-Package.zip",
-      "sha256": "ddf24cd89b4e6b55aa4a9f9965e917d33d2b8fce2833fddb479e4d51b132bda8",
-      "bytes": 437665,
-      "canonical_url": "https://get.aimoneygroup.com/resources/AI-Pipeline-Revival-System-Complete-Package.zip",
-      "release_tag": "pipeline-revival-v2026.08.20"
-    },
-    {
       "slug": "claude-skill-builder-blueprint",
       "title": "Claude Skill Builder Blueprint",
       "version": "2026.08.20",
